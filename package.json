@@ -1,0 +1,23 @@
+{
+  "name": "@hasanlibs/wing-platform-tf-backends",
+  "version": "0.0.1",
+  "description": "This Platform is used to configure different Terraform backends for your Wing applications",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "author": {
+    "name": "Hasan Abu-Rayyan",
+    "email": "hasanaburayyan21@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "5.3.3"
+  },
+  "dependencies": {
+    "@winglang/sdk": "0.54.30"
+  },
+  "files": [
+    "lib"
+  ]
+}
